@@ -1,0 +1,38 @@
+# Core Playwright dependencies
+playwright==1.40.0
+playwright-stealth==1.0.6
+
+# Stealth and Anti-detection plugins
+fake-useragent==1.4.0
+user-agents==2.2.0
+selenium-stealth==1.0.6
+
+# Proxy and Network handling
+requests==2.31.0
+requests[socks]==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
+
+# Human behavior simulation
+random-user-agent==1.0.1
+pyautogui==0.9.54
+numpy==1.24.3
+
+# Configuration and utilities
+python-dotenv==1.0.0
+pyyaml==6.0.1
+datetime
+os
+time
+random
+logging
+json
+
+# Additional stealth libraries
+undetected-chromedriver==3.5.4
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# Performance and monitoring
+psutil==5.9.6
+memory-profiler==0.61.0
